@@ -1,0 +1,2 @@
+primeiraClasse/MinhaPrimeiraClasse.java
+ primeiraClasse.MinhaPrimeiraClasse
